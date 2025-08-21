@@ -1,3 +1,5 @@
+<img width="1174" height="657" alt="image" src="https://github.com/user-attachments/assets/c330e3d2-6c65-483d-ac05-3c39051f8a07" />
+
 # Spotify-Listening-Dashboard
 Role: Data Analyst | Tools: Tableau, Excel
 Type: Personal Project | Focus: User Engagement Metrics, Data Visualization
